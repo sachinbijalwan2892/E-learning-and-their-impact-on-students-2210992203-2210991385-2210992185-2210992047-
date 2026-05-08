@@ -7,14 +7,14 @@ A Study of E-Learning Systems and Their Impact on Student Performance
 
 ---
 
-## Team Members
+## Authors
 
 | Roll Number | Name | Role |
 |-------------|----------------|-----------|
-| 2210992203 | Sachin Singh | Author |
-| 2210992185 | Ronit Sharma | Co-Author |
-| 2210991385 | Aryan Rathor | Co-Author |
-| 2210992047 | Porush Yadav | Co-Author |
+| 2210992203 | Sachin Singh |
+| 2210992185 | Ronit Sharma |
+| 2210991385 | Aryan Rathor | 
+| 2210992047 | Porush Yadav | 
 
 ---
 
