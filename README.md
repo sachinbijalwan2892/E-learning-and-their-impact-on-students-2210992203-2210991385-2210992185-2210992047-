@@ -9,7 +9,7 @@ A Study of E-Learning Systems and Their Impact on Student Performance
 
 ## Authors
 
-| Roll Number | Name | Role |
+| Roll Number | Name |
 |-------------|----------------|-----------|
 | 2210992203 | Sachin Singh |
 | 2210992185 | Ronit Sharma |
