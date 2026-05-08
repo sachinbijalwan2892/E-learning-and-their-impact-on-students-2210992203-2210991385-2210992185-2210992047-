@@ -1,2 +1,65 @@
-# E-learning-and-their-impact-on-students-2210992203-2210991385-2210992185-2210992047-
-this is research paper on the study of e learning systems and their impact on students performances...
+# README
+
+## Research Paper Details
+
+### Project Title
+A Study of E-Learning Systems and Their Impact on Student Performance
+
+---
+
+## Team Members
+
+| Roll Number | Name | Role |
+|-------------|----------------|-----------|
+| 2210992203 | Sachin Singh | Author |
+| 2210992185 | Ronit Sharma | Co-Author |
+| 2210991385 | Aryan Rathor | Co-Author |
+| 2210992047 | Porush Yadav | Co-Author |
+
+---
+
+## Co-Author / Mentor
+
+Dr. Shikha Tuteja
+
+---
+
+## Type
+
+Research Paper
+
+---
+
+## Institution Details
+
+- Institution: Chitkara University
+- Department: Computer Science
+
+---
+
+## Abstract
+
+This research paper focuses on studying e-learning systems and analyzing their impact on student performance. The research examines how online learning platforms affect academic achievement, student engagement, accessibility, flexibility, and overall learning effectiveness. The study highlights both the advantages and challenges associated with digital education systems in modern learning environments.
+
+---
+
+## Current Status
+
+✅ Research Completed  
+✅ Paper Written  
+✅ Submitted for Review/Conference Publication
+
+---
+
+## Technologies / Tools Used
+
+- Online Research Platforms
+- Survey & Data Collection
+- Microsoft Word
+- Internet-Based Learning Resources
+
+---
+
+## Authors
+
+Prepared by the above-mentioned students of the Computer Science Department, Chitkara University, under the guidance of Dr. Shikha Tuteja.
